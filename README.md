@@ -3,3 +3,5 @@
 
 ## Friday
 -Connor : Beef Stew
+
+-Jon : Salad and pretzels
