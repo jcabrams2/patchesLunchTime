@@ -5,3 +5,5 @@
 -Connor : Beef Stew
 
 -Jon : Salad and pretzels
+
+- Lana: Cake
